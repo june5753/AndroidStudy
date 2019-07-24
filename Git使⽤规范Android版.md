@@ -197,7 +197,7 @@ feat(用户)：新增修改用户头像的功能
 
 1.在项目的仓库主页中找到`Create Merge request`
 
-![Create merge request](img/Create merge request.png)
+![Create merge request](img/CreateMergeRequest.png)
 
 2.填写请求内容
 
