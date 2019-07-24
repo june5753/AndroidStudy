@@ -198,19 +198,19 @@ feat(用户)：新增修改用户头像的功能
 
 1.在项目的仓库主页中找到`Create Merge request`
 
-![Create merge request](img\Create merge request.png)
+![Create merge request](img/Create merge request.png)
 
 2.填写请求内容
 
 注意Title和内容的的填写规范：可参考[MR注释规范](#2. MR注释规范)，确认**分支来源、目标分支和委托人**不要填写错误。
 
-![MR内容](Img\MR内容.png)
+![MR内容](img/MR内容.png)
 
 
 
 分支说明：
 
-![MR中的内容](img\MR中的内容.png)
+![MR中的内容](img/MR中的内容.png)
 
 ####2. 处理MR请求
 
@@ -218,7 +218,7 @@ Gitlab 会通过邮件通知到委托人，处理 MR。
 
 1.查看 MR 中代码改变了哪些。
 
-![查看MR具体内容](Img\查看MR具体内容.png)
+![查看MR具体内容](img/查看MR具体内容.png)
 
 2.确认没有问题，通过 MR，合并完成。如果发现有问题，则关闭请求，合并失败，需要请求人修改代码后重新MR.
 
