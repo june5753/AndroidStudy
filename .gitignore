@@ -1,1 +1,15 @@
-/.idea/
+*.iml
+*.apk
+.gradle
+/local.properties
+.DS_Store
+/build
+.idea
+/captures
+.externalNativeBuild
+
+freeline
+freeline_core
+freeline.py
+freeline_project_description.json
+freeline.zip.tmp
