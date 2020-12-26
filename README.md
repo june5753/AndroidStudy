@@ -8,3 +8,6 @@ Android 开发资料库
 
 2.思否：https://segmentfault.com/u/jun5753/articles
 （Android实用技能指南总结专栏）
+
+3. 简书 https://www.jianshu.com/u/692cb6002c21
+（读书笔记及个人成长记录）
