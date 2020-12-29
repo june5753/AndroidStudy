@@ -1,6 +1,5 @@
 # AndroidStudy
-Android 精进之路
-总结学习工作中遇到的知识沉淀，不断完善中...
+记录Android 精进之路 总结学习工作中遇到的开发相关的实用技能，不断完善中，欢迎star 一起精进...
 
 个人博客：
 1.CSDN:https://blog.csdn.net/jun5753
