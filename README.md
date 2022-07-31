@@ -1,8 +1,9 @@
 # AndroidStudy
-记录Android 精进之路 总结学习工作中遇到的开发相关的实用技能，不断完善中，欢迎star 一起精进...
+记录 Android 精进之路 总结学习工作中遇到的开发相关的实用技能，不断完善中，欢迎star 一起精进...
 
 1. 个人博客：
 CSDN: https://blog.csdn.net/jun5753（专注Android经验分享，以技术人的角度看世界）
+
 Blog: https://june5753.github.io/blog/ (沉浸式阅读 Android 内参)
 
 2.付费专栏：
